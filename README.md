@@ -1,6 +1,3 @@
-<!-- Banner -->
-![DevOps Engineer | AWS | Kubernetes | Terraform](https://user-images.githubusercontent.com/yourbannerlink/banner.png)
-
 # Hi there, I'm Ankit Jangir 👋
 **AWS Certified DevOps Engineer – Professional | AWS Security Specialty**
 
@@ -32,26 +29,10 @@
 
 ---
 
-## 🚀 Featured Projects
-### 🔹 [AWS Multi-Account Security Architecture](https://github.com/yourusername/aws-multi-account-security)
-Terraform-based AWS Organizations setup with centralized billing, GuardDuty, Security Hub, and SCPs.
-
-### 🔹 [EKS CI/CD Pipeline](https://github.com/yourusername/eks-ci-cd-pipeline)
-GitHub Actions + Helm + EKS deployment pipeline with automated rollbacks.
-
-### 🔹 [Serverless Data Platform](https://github.com/yourusername/serverless-data-platform)
-ETL data pipeline using AWS Lambda, S3, DynamoDB, and Airbyte.
-
-### 🔹 [AWS Cost Optimizer](https://github.com/yourusername/aws-cost-optimizer)
-Lambda + CloudWatch automation to stop unused resources and report savings.
-
-<!-- ---
-
 ## 📊 GitHub Stats
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) -->
 
-<!-- --- -->
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-jangir-devops/)
