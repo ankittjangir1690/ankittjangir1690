@@ -1,11 +1,5 @@
 # Ankit Jangir - DevSecOps Engineer
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  🚀 Turning Infrastructure Dreams into Scalable Reality 🚀   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=AWS+Certified+DevOps+Professional+%7C+Security+Specialist;Kubernetes+Orchestration+%7C+Infrastructure+as+Code+Master;50%25+Cost+Optimization+%7C+99.9%25+Uptime+Achiever;Multi-Cloud+Architect+%7C+Production+Gatekeeper)](https://git.io/typing-svg)
