@@ -1,4 +1,4 @@
-# ⚡ Ankit Jangir - Cloud Infrastructure Architect
+# Ankit Jangir - DevSecOps Engineer
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -142,20 +142,39 @@ Impact: "₹1.8M annual savings with detailed cost attribution"
 
 ## 📈 **Professional Journey**
 
+<div align="center">
+
 ```mermaid
-gantt
-    title 🎯 DevOps Evolution Timeline
-    dateFormat  YYYY-MM-DD
-    section Learning Phase
-    AWS Foundations           :done, learning, 2021-01-01, 2021-12-31
-    section Production Hero
-    DevOps Engineer @ DhwaniRIS :active, production, 2022-01-01, 2025-08-19
-    section Certifications
-    AWS DevOps Professional    :done, cert1, 2023-01-01, 2023-03-01
-    AWS Security Specialty     :done, cert2, 2023-06-01, 2023-08-01
-    section Future Goals
-    Solution Architect         :future, 2025-09-01, 2026-01-01
+timeline
+    title DevOps Evolution Journey
+    
+    2021 : Foundation Building
+         : AWS Cloud Fundamentals
+         : Infrastructure Learning
+         : B.Tech IT (Distinction)
+    
+    2022 : Production Entry
+         : DevOps Engineer @ DhwaniRIS
+         : First Major Deployments
+         : GEM Award Winner
+    
+    2023 : Certification Master
+         : AWS DevOps Professional
+         : AWS Security Specialty
+         : Multi-Client Success
+    
+    2024 : Architecture Leadership
+         : 10+ Platform Management
+         : 50% Cost Optimization
+         : Team Leadership Excellence
+    
+    2025 : Future Vision
+         : Solution Architect Path
+         : Multi-Cloud Expertise
+         : Industry Recognition
 ```
+
+</div>
 
 ---
 
@@ -188,10 +207,24 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitjangir1690&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ankitjangir1690&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankitjangir1690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+</td>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankitjangir1690&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangir1690&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150"/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangir1690&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages" width="40%"/>
+### 🏅 **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitjangir1690&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
