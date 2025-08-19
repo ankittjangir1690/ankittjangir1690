@@ -6,8 +6,12 @@
 
 </div>
 
+---
+
 ## **Mission Statement**
 > *"I don't just deploy code—I architect resilient ecosystems that scale from startup dreams to enterprise realities. Every line of Infrastructure as Code I write is a building block toward zero-downtime, cost-optimized, and security-first cloud platforms."*
+
+---
 
 ## **What I Actually Do** *(Beyond the Buzzwords)*
 
@@ -217,6 +221,8 @@ timeline
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankittjangir1690&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
+
+---
 
 ## **Let's Build Something Amazing**
 
