@@ -191,34 +191,34 @@ timeline
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankitjangir1690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankittjangir1690&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ankitjangir1690&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankittjangir1690&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangir1690&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittjangir1690&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="150"/>
 </td>
 </tr>
 </table>
 
-### 🏅 **Contribution Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitjangir1690&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+### **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankittjangir1690&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🎮 **DevOps Philosophy**
+## **DevOps Philosophy**
 
 <div align="center">
 
@@ -241,7 +241,7 @@ current_obsessions:
 
 ---
 
-## 🔗 **Let's Build Something Amazing**
+## **Let's Build Something Amazing**
 
 <div align="center">
 
@@ -256,7 +256,7 @@ current_obsessions:
 
 ---
 
-## 💭 **Random Dev Thoughts**
+## **Random Dev Thoughts**
 
 <div align="center">
 
