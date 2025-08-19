@@ -1,44 +1,253 @@
-# Hi there, I'm Ankit Jangir 👋
-**AWS Certified DevOps Engineer – Professional | AWS Security Specialty**
+# ⚡ Ankit Jangir - Cloud Infrastructure Architect
 
-🚀 I design, build, and secure **scalable cloud infrastructure** for enterprises, NGOs, and AI/ML platforms.  
-💡 Passionate about **automation, cloud cost optimization, and production excellence**.  
-🏆 Achieved **up to 50% AWS cost reduction** and **99.9% uptime** for critical platforms serving 100K+ users.
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║  🚀 Turning Infrastructure Dreams into Scalable Reality 🚀   ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+<div align="center">
 
-## 📌 About Me
-- 🛠 3.8+ years in **AWS, Kubernetes, CI/CD, and Infrastructure as Code**
-- ☁️ Hands-on with **AWS Organizations, EKS, Serverless, and VPC Peering**
-- 🔒 Experience in **Govt. compliance (NIC/DIC)** and **secure cloud architectures**
-- 📈 Obsessed with **cost savings + performance tuning**
-- 📍 Based in New Delhi, India
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=AWS+Certified+DevOps+Professional+%7C+Security+Specialist;Kubernetes+Orchestration+%7C+Infrastructure+as+Code+Master;50%25+Cost+Optimization+%7C+99.9%25+Uptime+Achiever;Multi-Cloud+Architect+%7C+Production+Gatekeeper)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🛠 Tech Toolbox
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🎯 **Mission Statement**
+> *"I don't just deploy code—I architect resilient ecosystems that scale from startup dreams to enterprise realities. Every line of Infrastructure as Code I write is a building block toward zero-downtime, cost-optimized, and security-first cloud platforms."*
 
 ---
 
-## 📊 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+## 🏗️ **What I Actually Do** *(Beyond the Buzzwords)*
 
+### 🔥 **Production Wizardry**
+- **Infrastructure Whisperer**: Transformed legacy monoliths into cloud-native architectures serving **100K+ users**
+- **Cost Optimization Ninja**: Achieved **47-50% AWS cost reduction** without compromising performance
+- **Zero-Incident Guardian**: Maintained **99.9% uptime** as production gatekeeper with **zero security breaches**
+- **Multi-Account Architect**: Designed AWS Organizations structures for enterprise-grade governance
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-jangir-devops/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ankittjangir1690)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitjangir.1690@gmail.com)
+### 💰 **Real Impact, Real Numbers**
+```yaml
+achievements:
+  cost_savings: "₹2.5M+ annually across client portfolio"
+  deployment_speed: "60% faster releases with zero rollbacks"
+  infrastructure_scale: "500+ AWS resources across 20+ environments"
+  team_efficiency: "40% faster onboarding with automated workflows"
+  reliability_boost: "70% reduction in production issues"
+```
 
 ---
 
-💬 *“Infrastructure should be invisible until it fails — my job is to make sure it never does.”*
+## 🛠️ **Arsenal of Tools**
+
+<details>
+<summary>🌩️ <strong>Cloud Platforms</strong> <em>(Click to expand)</em></summary>
+
+```yaml
+Primary:
+  - AWS: "Organizations, EKS, Lambda, VPC, IAM, Security Hub"
+  - Expertise: "Multi-account strategies, cost optimization, security compliance"
+  
+Secondary:
+  - GCP: "Migration strategies, hybrid deployments"
+  - Azure: "Cross-cloud integrations"
+  - Oracle Cloud: "Enterprise workload transitions"
+```
+</details>
+
+<details>
+<summary>⚙️ <strong>Infrastructure & Automation</strong></summary>
+
+```yaml
+Infrastructure_as_Code:
+  - Terraform: "Multi-cloud provisioning, state management"
+  - CloudFormation: "AWS-native deployments"
+  - Helm: "Kubernetes package management"
+  
+Container_Orchestration:
+  - Kubernetes: "Production-grade clusters, auto-scaling"
+  - Docker: "Multi-stage builds, security scanning"
+  - EKS: "Managed Kubernetes with Fargate"
+```
+</details>
+
+<details>
+<summary>🔄 <strong>CI/CD & Automation</strong></summary>
+
+```yaml
+Pipeline_Tools:
+  - Jenkins: "Groovy pipelines, shared libraries"
+  - GitHub Actions: "Workflow automation, matrix builds"
+  - Bitbucket Pipelines: "Git-integrated deployments"
+  
+Automation_Philosophy:
+  - "If you do it twice, automate it"
+  - "Configuration drift is the enemy"
+  - "Every deployment should be identical"
+```
+</details>
+
+<details>
+<summary>📊 <strong>Observability & Security</strong></summary>
+
+```yaml
+Monitoring_Stack:
+  - Prometheus + Grafana: "Custom metrics, SLI/SLO tracking"
+  - Datadog: "APM, infrastructure monitoring"
+  - ELK Stack: "Centralized logging, anomaly detection"
+  
+Security_Arsenal:
+  - AWS Security: "GuardDuty, Inspector, Config Rules"
+  - Vulnerability Scanning: "Burp Suite, ZAP, Qualys"
+  - Compliance: "SOC2, GDPR, Government standards"
+```
+</details>
+
+---
+
+## 🚀 **Signature Projects**
+
+### 🏛️ **Multi-Tenant Government Platform**
+```yaml
+Challenge: "Build NIC/DIC compliant infrastructure for national programs"
+Solution: 
+  - Designed air-gapped VPC architecture
+  - Implemented audit logging with CloudTrail + Config
+  - Built disaster recovery with cross-region replication
+Impact: "100% uptime during critical government operations"
+```
+
+### 🤖 **AI/ML Platform Infrastructure**
+```yaml
+Challenge: "Scale ML workloads with unpredictable compute demands"
+Solution:
+  - EKS with Karpenter auto-scaling
+  - Spot instances with graceful interruption handling
+  - GPU-optimized node pools with taints/tolerations
+Impact: "60% cost reduction while supporting 10x model training throughput"
+```
+
+### 💎 **Enterprise Cost Optimization Engine**
+```yaml
+Challenge: "Runaway AWS costs across multiple business units"
+Solution:
+  - Automated resource tagging and cost allocation
+  - Reserved Instance recommendation engine
+  - Unused resource identification with automated cleanup
+Impact: "₹1.8M annual savings with detailed cost attribution"
+```
+
+---
+
+## 📈 **Professional Journey**
+
+```mermaid
+gantt
+    title 🎯 DevOps Evolution Timeline
+    dateFormat  YYYY-MM-DD
+    section Learning Phase
+    AWS Foundations           :done, learning, 2021-01-01, 2021-12-31
+    section Production Hero
+    DevOps Engineer @ DhwaniRIS :active, production, 2022-01-01, 2025-08-19
+    section Certifications
+    AWS DevOps Professional    :done, cert1, 2023-01-01, 2023-03-01
+    AWS Security Specialty     :done, cert2, 2023-06-01, 2023-08-01
+    section Future Goals
+    Solution Architect         :future, 2025-09-01, 2026-01-01
+```
+
+---
+
+## 🏆 **Hall of Fame**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 **Recognition**
+- **3x GEM Award Winner** (2022, 2023, 2024)
+- **Project Leadership Excellence** - Apna Desh
+- **Security & Compliance Champion** - HUF Project
+
+</td>
+<td width="50%">
+
+### 📜 **Credentials**
+- **AWS Certified DevOps Engineer – Professional**
+- **AWS Certified Security – Specialty**
+- **B.Tech Information Technology** (Distinction)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitjangir1690&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ankitjangir1690&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjangir1690&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages" width="40%"/>
+
+</div>
+
+---
+
+## 🎮 **DevOps Philosophy**
+
+<div align="center">
+
+```yaml
+core_beliefs:
+  automation: "Humans are for thinking, machines are for executing"
+  security: "Security isn't a feature, it's the foundation"
+  monitoring: "You can't improve what you can't measure"
+  cost: "Cloud bills should shrink as your business grows"
+  reliability: "Failures are inevitable, recoveries should be automatic"
+  
+current_obsessions:
+  - FinOps and cloud cost engineering
+  - Kubernetes networking deep-dives
+  - AI/ML infrastructure optimization
+  - Multi-cloud disaster recovery patterns
+```
+
+</div>
+
+---
+
+## 🔗 **Let's Build Something Amazing**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-jangir-devops/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitjangir1690)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitjangir.1690@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919643389007)
+
+**📍 New Delhi, India** | **🌐 Available for Remote/Hybrid Opportunities**
+
+</div>
+
+---
+
+## 💭 **Random Dev Thoughts**
+
+<div align="center">
+
+*"Infrastructure as Code isn't just about automation—it's about making your 3 AM self thank your 3 PM self for writing that Terraform module properly."*
+
+**⭐ If my work has helped you, consider starring some repos!**  
+**🤝 Always open to discussing cloud architecture, DevOps strategies, or that one kubectl command that's driving you crazy.**
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ankitjangir1690&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
