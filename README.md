@@ -96,6 +96,7 @@ Security_Arsenal:
 ```
 </details>
 
+<!--
 ## **Signature Projects**
 
 ### **Multi-Tenant Government Platform**
@@ -129,7 +130,7 @@ Impact: "₹1.8M annual savings with detailed cost attribution"
 ```
 
 ---
-
+-->
 ## **Professional Journey**
 
 <div align="center">
