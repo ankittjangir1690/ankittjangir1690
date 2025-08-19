@@ -128,9 +128,9 @@ Solution:
   - Unused resource identification with automated cleanup
 Impact: "₹1.8M annual savings with detailed cost attribution"
 ```
-
----
 -->
+---
+
 ## **Professional Journey**
 
 <div align="center">
