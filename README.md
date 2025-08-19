@@ -6,22 +6,18 @@
 
 </div>
 
----
-
-## 🎯 **Mission Statement**
+## **Mission Statement**
 > *"I don't just deploy code—I architect resilient ecosystems that scale from startup dreams to enterprise realities. Every line of Infrastructure as Code I write is a building block toward zero-downtime, cost-optimized, and security-first cloud platforms."*
 
----
+## **What I Actually Do** *(Beyond the Buzzwords)*
 
-## 🏗️ **What I Actually Do** *(Beyond the Buzzwords)*
-
-### 🔥 **Production Wizardry**
+### **Production Wizardry**
 - **Infrastructure Whisperer**: Transformed legacy monoliths into cloud-native architectures serving **100K+ users**
 - **Cost Optimization Ninja**: Achieved **47-50% AWS cost reduction** without compromising performance
 - **Zero-Incident Guardian**: Maintained **99.9% uptime** as production gatekeeper with **zero security breaches**
 - **Multi-Account Architect**: Designed AWS Organizations structures for enterprise-grade governance
 
-### 💰 **Real Impact, Real Numbers**
+### **Real Impact, Real Numbers**
 ```yaml
 achievements:
   cost_savings: "₹2.5M+ annually across client portfolio"
@@ -30,8 +26,6 @@ achievements:
   team_efficiency: "40% faster onboarding with automated workflows"
   reliability_boost: "70% reduction in production issues"
 ```
-
----
 
 ## 🛠️ **Arsenal of Tools**
 
