@@ -27,10 +27,10 @@ achievements:
   reliability_boost: "70% reduction in production issues"
 ```
 
-## 🛠️ **Arsenal of Tools**
+## **Arsenal of Tools**
 
 <details>
-<summary>🌩️ <strong>Cloud Platforms</strong> <em>(Click to expand)</em></summary>
+<summary><strong>Cloud Platforms</strong> <em>(Click to expand)</em></summary>
 
 ```yaml
 Primary:
@@ -45,7 +45,7 @@ Secondary:
 </details>
 
 <details>
-<summary>⚙️ <strong>Infrastructure & Automation</strong></summary>
+<summary><strong>Infrastructure & Automation</strong></summary>
 
 ```yaml
 Infrastructure_as_Code:
@@ -61,7 +61,7 @@ Container_Orchestration:
 </details>
 
 <details>
-<summary>🔄 <strong>CI/CD & Automation</strong></summary>
+<summary><strong>CI/CD & Automation</strong></summary>
 
 ```yaml
 Pipeline_Tools:
@@ -77,7 +77,7 @@ Automation_Philosophy:
 </details>
 
 <details>
-<summary>📊 <strong>Observability & Security</strong></summary>
+<summary><strong>Observability & Security</strong></summary>
 
 ```yaml
 Monitoring_Stack:
@@ -94,9 +94,9 @@ Security_Arsenal:
 
 ---
 
-## 🚀 **Signature Projects**
+## **Signature Projects**
 
-### 🏛️ **Multi-Tenant Government Platform**
+### **Multi-Tenant Government Platform**
 ```yaml
 Challenge: "Build NIC/DIC compliant infrastructure for national programs"
 Solution: 
@@ -106,7 +106,7 @@ Solution:
 Impact: "100% uptime during critical government operations"
 ```
 
-### 🤖 **AI/ML Platform Infrastructure**
+### **AI/ML Platform Infrastructure**
 ```yaml
 Challenge: "Scale ML workloads with unpredictable compute demands"
 Solution:
@@ -116,7 +116,7 @@ Solution:
 Impact: "60% cost reduction while supporting 10x model training throughput"
 ```
 
-### 💎 **Enterprise Cost Optimization Engine**
+### **Enterprise Cost Optimization Engine**
 ```yaml
 Challenge: "Runaway AWS costs across multiple business units"
 Solution:
@@ -128,7 +128,7 @@ Impact: "₹1.8M annual savings with detailed cost attribution"
 
 ---
 
-## 📈 **Professional Journey**
+## **Professional Journey**
 
 <div align="center">
 
