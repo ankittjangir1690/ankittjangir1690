@@ -92,8 +92,6 @@ Security_Arsenal:
 ```
 </details>
 
----
-
 ## **Signature Projects**
 
 ### **Multi-Tenant Government Platform**
@@ -164,8 +162,6 @@ timeline
 
 </div>
 
----
-
 ## 🏆 **Hall of Fame**
 
 <table>
@@ -188,8 +184,6 @@ timeline
 </td>
 </tr>
 </table>
-
----
 
 ## **GitHub Analytics**
 
@@ -216,31 +210,6 @@ timeline
 
 </div>
 
----
-
-## **DevOps Philosophy**
-
-<div align="center">
-
-```yaml
-core_beliefs:
-  automation: "Humans are for thinking, machines are for executing"
-  security: "Security isn't a feature, it's the foundation"
-  monitoring: "You can't improve what you can't measure"
-  cost: "Cloud bills should shrink as your business grows"
-  reliability: "Failures are inevitable, recoveries should be automatic"
-  
-current_obsessions:
-  - FinOps and cloud cost engineering
-  - Kubernetes networking deep-dives
-  - AI/ML infrastructure optimization
-  - Multi-cloud disaster recovery patterns
-```
-
-</div>
-
----
-
 ## **Let's Build Something Amazing**
 
 <div align="center">
@@ -254,8 +223,6 @@ current_obsessions:
 
 </div>
 
----
-
 ## **Random Dev Thoughts**
 
 <div align="center">
@@ -266,8 +233,6 @@ current_obsessions:
 **🤝 Always open to discussing cloud architecture, DevOps strategies, or that one kubectl command that's driving you crazy.**
 
 </div>
-
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ankitjangir1690&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
