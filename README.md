@@ -162,6 +162,8 @@ timeline
 
 </div>
 
+---
+
 ## 🏆 **Hall of Fame**
 
 <table>
@@ -176,6 +178,8 @@ timeline
 </td>
 <td width="50%">
 
+---
+
 ### 📜 **Credentials**
 - **AWS Certified DevOps Engineer – Professional**
 - **AWS Certified Security – Specialty**
@@ -184,6 +188,8 @@ timeline
 </td>
 </tr>
 </table>
+
+---
 
 ## **GitHub Analytics**
 
@@ -204,6 +210,8 @@ timeline
 </td>
 </tr>
 </table>
+
+---
 
 ### **Contribution Activity**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankittjangir1690&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
