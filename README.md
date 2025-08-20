@@ -183,12 +183,10 @@ timeline
 </td>
 <td width="50%">
 
----
 
 ### 📜 **Credentials**
 - **AWS Certified DevOps Engineer – Professional**
 - **AWS Certified Security – Specialty**
-- **B.Tech Information Technology** (Distinction)
 
 </td>
 </tr>
