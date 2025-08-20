@@ -174,6 +174,7 @@ timeline
 <table>
 <tr>
 <td width="50%">
+
 ### 🌟 **Recognition**
 - **3x GEM Award Winner** (2022, 2023, 2024)
 - **Project Leadership Excellence** - Apna Desh
@@ -181,6 +182,7 @@ timeline
 
 </td>
 <td width="50%">
+
 ### 📜 **Credentials**
 - **AWS Certified DevOps Engineer – Professional**
 - **AWS Certified Security – Specialty**
